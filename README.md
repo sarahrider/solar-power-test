@@ -8,7 +8,7 @@ The test involves a multi-step, high-intensity evaluation of whether or not the 
 
 **please** _work today_
 
-![Jin screaming for dear life] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zvhwb&psig=AOvVaw1as5Fjvas_y_tBZwo6QdeQ&ust=1624467027062000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJj157nZq_ECFQAAAAAdAAAAABAD)
+![Jin screaming for dear life] (https://www.pngwing.com/en/free-png-zvhwb)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

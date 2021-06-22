@@ -1,6 +1,6 @@
 ## Welcome to The Style Block Test
 
-The test involves a multi-step, high-intensity evaluation of whether or not the Python code from our Jupyter notebook will display our HTML styleblock or not ONLINE
+This site is for testing whether or not the Python code from our Jupyter notebook will display our HTML styleblock or not ONLINE!
 
 # Is it here?
 ## maybe
@@ -8,7 +8,7 @@ The test involves a multi-step, high-intensity evaluation of whether or not the 
 
 **please** _work today_
 
-![Jin screaming for dear life] (https://www.pngwing.com/en/free-png-zvhwb)
+![Jin screaming for dear life] (https://i.pinimg.com/originals/3d/4c/82/3d4c82848bd1c1e1284b8aa78caec2b0.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
